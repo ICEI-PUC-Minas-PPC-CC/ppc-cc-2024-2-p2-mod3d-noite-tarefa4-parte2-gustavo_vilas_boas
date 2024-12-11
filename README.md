@@ -14,8 +14,9 @@
 
 ## Documentação
 
-A gravaçao do Blender pode ser baixada [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-p2-mod3d-noite-tarefa4-parte2-gustavo_vilas_boas/blob/main/gravacao-blender.mkv)<br>
-O arquivo <i>.blend</i> pode ser baixado [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-p2-mod3d-noite-tarefa4-parte2-gustavo_vilas_boas/blob/main/dummy-dancando.blend)
+- A gravaçao do Blender pode ser baixada [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-p2-mod3d-noite-tarefa4-parte2-gustavo_vilas_boas/blob/main/gravacao-blender.mpeg)<br>
+- O vídeo de inspiração pode ser baixado [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-p2-mod3d-noite-tarefa4-parte2-gustavo_vilas_boas/blob/main/inspiracao.mpeg)
+- O arquivo <i>.blend</i> pode ser baixado [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-p2-mod3d-noite-tarefa4-parte2-gustavo_vilas_boas/blob/main/dummy-dancando.blend)
 
 Abaixo, deixo o vídeo do boneco Dummy dançando e, logo abaixo, deixo o vídeo de inspiração para a dança.
 
