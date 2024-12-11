@@ -14,6 +14,8 @@
 
 ## Documentação
 
+O vídeo com orientações sobre esse trabalho feito pode ser assistido no YouTube por [AQUI](https://www.youtube.com/watch?v=LZVNvFwwwko)
+
 - A gravaçao do Blender pode ser baixada [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-p2-mod3d-noite-tarefa4-parte2-gustavo_vilas_boas/blob/main/gravacao-blender.mpeg)<br>
 - O vídeo de inspiração pode ser baixado [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-p2-mod3d-noite-tarefa4-parte2-gustavo_vilas_boas/blob/main/inspiracao.mpeg)
 - O arquivo <i>.blend</i> pode ser baixado [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-p2-mod3d-noite-tarefa4-parte2-gustavo_vilas_boas/blob/main/dummy-dancando.blend)
