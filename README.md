@@ -16,6 +16,10 @@
 
 Abaixo, deixo o vídeo do boneco Dummy dançando e, logo abaixo, deixo o vídeo de inspiração para a dança.
 
-<video src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-p2-mod3d-noite-tarefa4-parte2-gustavo_vilas_boas/blob/main/0001-0250.mkv"></video>
 
-<video src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-p2-mod3d-noite-tarefa4-parte2-gustavo_vilas_boas/blob/main/inspiracao.mp4"></video>
+https://github.com/user-attachments/assets/eb253af1-ff77-4c20-abc3-ae861fdcc837
+
+
+https://github.com/user-attachments/assets/27e4131d-210f-4ea5-a376-dd48884398b0
+
+
